@@ -4,7 +4,7 @@
   <title><![CDATA[梦里广播]]></title>
   <link href="http://www.radioindreams.com/atom.xml" rel="self"/>
   <link href="http://www.radioindreams.com/"/>
-  <updated>2016-04-12T15:15:19+08:00</updated>
+  <updated>2016-04-12T15:19:35+08:00</updated>
   <id>http://www.radioindreams.com/</id>
   <author>
     <name><![CDATA[炮久久]]></name>
@@ -18,9 +18,7 @@
     <link href="http://www.radioindreams.com/blog/2016/04/12/studyjamsfirstpost/"/>
     <updated>2016-04-12T11:58:44+08:00</updated>
     <id>http://www.radioindreams.com/blog/2016/04/12/studyjamsfirstpost</id>
-    <content type="html"><![CDATA[<h1>SJ36-BuildingLayout（上）遐想</h1>
-
-<p>&nbsp;&nbsp;一直有事比较忙，所以这篇笔记竟一直拖到现在才写。万事开头难，我想当大家开始接触Android时，也会有过脑子里一团乱麻，完全无法下手。我也如此，当初我也是懵逼的。</p>
+    <content type="html"><![CDATA[<p>&nbsp;&nbsp;一直有事比较忙，所以这篇笔记竟一直拖到现在才写。万事开头难，我想当大家开始接触Android时，也会有过脑子里一团乱麻，完全无法下手。我也如此，当初我也是懵逼的。</p>
 
 <p>&nbsp;&nbsp;有句话大概是这样一个意思，在一个领域，教授和学生的区别是:对于那些细如砾石的知识，教授看到的是一座教堂，而学生看到的只是一堵墙。<!--more-->对于教授来说，所有的知识点都已形成了一个知识网络，他不仅知道单独一个知识点的东西，而且还了解这个知识点在知识网络中的位置及和其它知识点的联系。所以对于教授来说，给他一个知识点，他能画出整个知识网络。教授看到了这个体系的知识点的全貌，而学生只能看到一面墙，是由于此时学生接触到的知识点还较少，而且接触到的知识点也并不一定吃透弄明白了。学生看到知识的砾石密集的排列在一块，只觉得它们是一面墙。有一句古诗很好的描述了这种情景，“不识庐山真面目，只缘自挂东南枝”。(⊙o⊙)哦，错了，是“不识庐山真面目，只缘生在此山中”。<br/>
 &nbsp;&nbsp;(＾－＾)别吊死在一棵树上哦。</p>
